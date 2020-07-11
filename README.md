@@ -15,4 +15,4 @@ I love building stuff with R, JavaScript, and SQL and I sometimes have a bash at
 - 💖 I'm on [Github Sponsor](https://github.com/sponsors/JohnCoene)
 - 📚 I'm currently working on a book
 
-A mosaic of some of my open source projects ➡️
+This is a mosaic of some of my open source projects ➡️
