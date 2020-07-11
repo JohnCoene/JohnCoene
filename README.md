@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-<img align="right" src="https://raw.githubusercontent.com/JohnCoene/JohnCoene/master/all_sticker.png"/>
+<img align="right" src="https://raw.githubusercontent.com/JohnCoene/JohnCoene/master/all_sticker.png" style="max-width:200px;"/>
 
 I love building stuff with R, JavaScript, and SQL and I sometimes have a bash at golang.
 
