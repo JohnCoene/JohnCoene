@@ -1,5 +1,7 @@
 ### Welcome 👋
 
+<img align="right" src="https://raw.githubusercontent.com/JohnCoene/JohnCoene/master/all_sticker.png"/>
+
 I love building stuff with R, JavaScript, and SQL and I sometimes have a bash at golang.
 
 - 🖥️ I have a mildly interesting [website](https://john-coene.com/)
