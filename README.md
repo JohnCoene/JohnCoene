@@ -2,7 +2,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/JohnCoene/JohnCoene/master/all_sticker.png" width="200px" style="width:200px;"/>
 
-I love building stuff with R, JavaScript, and SQL and I sometimes have a bash at golang.
+I love building stuff with R, JavaScript, and SQL. I sometimes have a bash at golang.
 
 - 🖥️ I have a mildly interesting [website](https://john-coene.com/)
 - ✨ I love the shiny framework, my apps can be found [here](https://shiny.john-coene.com/)
