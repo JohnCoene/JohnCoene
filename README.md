@@ -17,6 +17,5 @@
 - 💖 I'm on [Github Sponsor](https://github.com/sponsors/JohnCoene) and [buymeacoffee](https://www.buymeacoffee.com/JohnCoene)
 - 📚 I'm currently writing a book
 
-[![Twitter](http://img.shields.io/badge/-@jdatap-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/jdatap)](https://twitter.com/jdatap)
-[![Github](https://img.shields.io/github/followers/JohnCoene?label=Follow&style=social)](https://github.com/VedantKhairnar/?tab=follow)
-[![LinkedIn](https://img.shields.io/badge/-John%20Coene-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/johncoene/)](https://www.linkedin.com/in/johncoene/)
+[![Twitter](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https://twitter.com/jdatap)](https://twitter.com/jdatap)
+[![LinkedIn](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=http://linkedin.com/in/johncoene)](http://linkedin.com/in/johncoene)
