@@ -11,15 +11,11 @@
 
 - 🖥️ I have a mildly interesting [website](https://john-coene.com/)
 - ✨ I love the shiny framework, my apps can be found [here](https://shiny.john-coene.com/)
-- 🐋 I have a few interesting [docker](https://hub.docker.com/u/jcoenep) images
 - 📰 I try to maintain [news-r](https://github.com/news-r)
 - 💡 I'm part of the [Rinterface Group](https://github.com/Rinterface/)
 - 🖋️ I rarely [blog](https://blog.john-coene.com/)
-- 📬 You may contact me by email: \\email{jcoenep\[at\]\(gmail\).com}
 - 💖 I'm on [Github Sponsor](https://github.com/sponsors/JohnCoene) and [buymeacoffee](https://www.buymeacoffee.com/JohnCoene)
 - 📚 I'm currently writing a book
-
-This is a mosaic of some of my open source projects you will find here ➡️
 
 [![Twitter](http://img.shields.io/badge/-@jdatap-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/jdatap)](https://twitter.com/jdatap)
 [![Github](https://img.shields.io/github/followers/JohnCoene?label=Follow&style=social)](https://github.com/VedantKhairnar/?tab=follow)
