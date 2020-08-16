@@ -8,7 +8,6 @@ Here, take a look at my stuff!
 - ✨ I love the shiny framework, my apps can be found [here](https://shiny.john-coene.com/)
 - 📰 I try to maintain [news-r](https://github.com/news-r)
 - 💡 I'm part of the [Rinterface Group](https://github.com/Rinterface/)
-- 🖋️ I rarely [blog](https://blog.john-coene.com/)
 - 💖 I'm on [Github Sponsor](https://github.com/sponsors/JohnCoene) and [buymeacoffee](https://www.buymeacoffee.com/JohnCoene)
 - 📚 I'm currently writing a book
 
