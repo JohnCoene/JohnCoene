@@ -9,7 +9,7 @@ Here, take a look at my stuff!
 - 💡 I'm part of the [Rinterface Group](https://github.com/Rinterface/)
 - 💖 I'm on [Github Sponsor](https://github.com/sponsors/JohnCoene) and [buymeacoffee](https://www.buymeacoffee.com/JohnCoene)
 - 📚 I'm currently writing "[JavaScript for R](https://javascript-for-r.com/)"
-- 🖱️ I'm working on [Opifex](https://opifex.org/)
+- 👔 I'm working on [Opifex](https://opifex.org/)
 
 __Social__
 
