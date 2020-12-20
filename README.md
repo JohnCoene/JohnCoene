@@ -2,7 +2,7 @@
 
 Here, take a look at my stuff!
 
-<img align="right" src="https://raw.githubusercontent.com/JohnCoene/JohnCoene/master/sticker_mosaic.png" width="200px" style="width:200px;"/>
+<img align="right" src="https://raw.githubusercontent.com/JohnCoene/JohnCoene/master/all_stickers.png" width="200px" style="width:200px;"/>
 
 - 👔  I'm working on [Opifex](https://opifex.org/)
 - 🖥️  I have a mildly interesting [website](https://john-coene.com/)
