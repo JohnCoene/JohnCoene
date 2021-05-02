@@ -6,7 +6,7 @@ Here, take a look at my stuff!
 
 - 👔  I'm working on [Opifex](https://opifex.org/)
 - 🖥️  I have a mildly interesting [website](https://john-coene.com/)
-- ✨  I love the shiny framework, my apps can be found [here](https://shiny.john-coene.com/)
+- ✨  I have a dull [shiny server](https://shiny.john-coene.com/)
 - 💡  I'm part of the [Rinterface Group](https://github.com/Rinterface/)
 - 💖  I'm on [Github Sponsor](https://github.com/sponsors/JohnCoene) and [buymeacoffee](https://www.buymeacoffee.com/JohnCoene)
 - 📚  I'm currently writing [JavaScript for R](https://javascript-for-r.com/)
