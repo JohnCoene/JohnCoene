@@ -19,8 +19,8 @@ __Social__
 __Tech__
 
 [![R](https://img.shields.io/badge/-programming-black?style=flat-square&logo=r&link=https://github.com/JohnCoene/)](https://github.com/JohnCoene/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/JohnCoene/)](https://github.com/JohnCoene/)
 ![golang](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go&link=https://github.com/JohnCoene/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/JohnCoene/)](https://github.com/JohnCoene/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/JohnCoene/)](https://github.com/JohnCoene/)
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql&link=https://github.com/JohnCoene/)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://hub.docker.com/u/jcoenep)](https://hub.docker.com/u/jcoenep)
