@@ -8,7 +8,7 @@ Here, take a look at my stuff!
 - 🖥️  I have a mildly interesting [website](https://john-coene.com/)
 - ✨  I have a dull [shiny server](https://shiny.john-coene.com/)
 - 💡  I'm part of the [Rinterface Group](https://github.com/Rinterface/)
-- 💖  I'm on [Github Sponsor](https://github.com/sponsors/JohnCoene) and [buymeacoffee](https://www.buymeacoffee.com/JohnCoene)
+- 💖  I'm on [Github Sponsor](https://github.com/sponsors/JohnCoene)
 - 📚  I wrote [JavaScript for R](https://javascript-for-r.com/)
 
 __Social__
