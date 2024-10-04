@@ -8,7 +8,6 @@ Here, take a look at my stuff!
 - 📹  I'm on [YouTube](https://www.youtube.com/c/JohnCoene)
 - 🖥️  I have a mildly interesting [website](https://john-coene.com/)
 - 💨  I created [Vapour](https://vapour.run)
-- 💖  I'm on [Github Sponsor](https://github.com/sponsors/JohnCoene)
 - 📚  I wrote [JavaScript for R](https://javascript-for-r.com/)
 
 __Social__
