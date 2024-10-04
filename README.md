@@ -10,6 +10,7 @@ Here, take a look at my stuff!
 - ✨  I have a dull [shiny server](https://shiny.john-coene.com/)
 - 💖  I'm on [Github Sponsor](https://github.com/sponsors/JohnCoene)
 - 📚  I wrote [JavaScript for R](https://javascript-for-r.com/)
+- 💨  I created [Vapour](https://vapour.run)
 
 __Social__
 
